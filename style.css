@@ -11,24 +11,27 @@ header{
     width: inherit;
     height: 10%;
     background-color: darkblue ;
-    border: 3px dotted lightgrey;
+
+
 }
 #first{
-    height: 300px;
-    background-color: purple;
+    height: 60%;
+    background-color: lightblue;
 }
 #first div {
-    height:300px;
-    width:48.35%;
-    border: 4px solid silver;
+    height:100%;
+    width:49%;
     float: left;
 }
+#left{
+  border-right: 4px solid green;
+}
 #second{
-    height: 100px;
-    background-color:black;
+    height: 20%;
+    background-color:blue;
 }
 footer{
     height: 10%;
     width: inherit;
-    background-color: magenta;
+    background-color: violet;
 }
